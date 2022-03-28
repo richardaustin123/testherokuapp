@@ -1,4 +1,4 @@
-const socket = io("http://localhost:3000");
+const socket = io("https://richardlewistestapp.herokuapp.com/");
 
 // document.getElementById("btn").addEventListener("click", () => {
 //     alert("Hello");
